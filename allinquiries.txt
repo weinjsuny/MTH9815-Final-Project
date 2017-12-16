@@ -1,0 +1,240 @@
+The inquire ID is 2 and BUY Side 9128283H1 for 0 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283L2 for 0 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912828M80 for 0 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283J7 for 0 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283F5 for 0 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912810RZ3 for 0 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283H1 for 55 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283L2 for 646 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912828M80 for 886 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283J7 for 433 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283F5 for 142 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912810RZ3 for 416 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283H1 for 1996 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283L2 for 1302 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912828M80 for 1398 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283J7 for 952 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283F5 for 778 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912810RZ3 for 1424 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283H1 for 1530 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283L2 for 2607 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912828M80 for 2064 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283J7 for 2367 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283F5 for 1269 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912810RZ3 for 1755 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283H1 for 1140 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283L2 for 1704 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912828M80 for 3028 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283J7 for 3728 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283F5 for 616 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912810RZ3 for 756 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283H1 for 1645 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283L2 for 3460 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912828M80 for 2775 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283J7 for 2745 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283F5 for 2560 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912810RZ3 for 300 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283H1 for 4518 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283L2 for 2538 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912828M80 for 5976 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283J7 for 3174 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283F5 for 2622 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912810RZ3 for 5694 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283H1 for 1365 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283L2 for 2912 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912828M80 for 735 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283J7 for 1974 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283F5 for 5138 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912810RZ3 for 4907 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283H1 for 5368 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283L2 for 2104 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912828M80 for 2840 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283J7 for 424 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283F5 for 6464 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912810RZ3 for 7560 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283H1 for 6804 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283L2 for 5022 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 912828M80 for 8838 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 9128283J7 for 1296 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side 9128283F5 for 1998 quantity, at 100.000000 price.
+The inquire ID is 2 and SELL Side 912810RZ3 for 1449 quantity, at 100.000000 price.
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 55, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 646, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 886, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 433, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 142, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 416, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 1996, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 1302, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 1398, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 952, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 778, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 1424, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1530, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2607, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2064, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 2367, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 1269, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 1755, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1140, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 1704, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 3028, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 3728, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 616, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 756, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1645, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 3460, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2775, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 2745, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 2560, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 300, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 4518, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2538, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 5976, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 3174, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 2622, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 5694, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 1365, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2912, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 735, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 1974, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 5138, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 4907, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 5368, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 2104, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2840, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 424, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 6464, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 7560, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 6804, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 5022, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 8838, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 1296, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 1998, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 1449, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 55, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 646, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 886, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 433, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 142, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 416, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 1996, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 1302, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 1398, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 952, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 778, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 1424, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1530, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2607, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2064, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 2367, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 1269, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 1755, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1140, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 1704, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 3028, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 3728, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 616, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 756, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1645, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 3460, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2775, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 2745, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 2560, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 300, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 4518, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2538, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 5976, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 3174, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 2622, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 5694, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 1365, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2912, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 735, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 1974, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 5138, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 4907, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 5368, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 2104, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2840, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 424, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 6464, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 7560, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 6804, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 5022, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 8838, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 1296, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 1998, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 1449, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 0, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 55, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 646, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 886, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 433, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 142, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 416, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 1996, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 1302, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 1398, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 952, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 778, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 1424, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1530, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2607, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2064, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 2367, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 1269, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 1755, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1140, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 1704, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 3028, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 3728, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 616, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 756, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 1645, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 3460, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2775, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 2745, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 2560, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 300, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 4518, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2538, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 5976, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 3174, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 2622, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 5694, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 1365, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 2912, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 735, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283J7, the quantity is 1974, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283F5, the quantity is 5138, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 4907, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283H1, the quantity is 5368, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283L2, the quantity is 2104, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912828M80, the quantity is 2840, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 424, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 6464, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912810RZ3, the quantity is 7560, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283H1, the quantity is 6804, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283L2, the quantity is 5022, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 912828M80, the quantity is 8838, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 9128283J7, the quantity is 1296, the price is 100.000000
+The inquire ID is 2 and BUY Side , the product is 9128283F5, the quantity is 1998, the price is 100.000000
+The inquire ID is 2 and SELL Side , the product is 912810RZ3, the quantity is 1449, the price is 100.000000
